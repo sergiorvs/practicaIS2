@@ -1,4 +1,4 @@
-# practicaIS2
+﻿# practicaIS2
 Hola!!! modificando en la rama "sergiovaldivia"...
 Segundo commit en la esta rama.
 modificando
@@ -7,7 +7,31 @@ modificando
 
 primer commit 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ximena modifico aqui
+ximena modifico aqui otra vez
+
+
+
+
+
+ultimo cambio de la tarde
+
 
 otro
 
+linea añadida en la rama "sergiovaldivia"
+segunda linea añadida en la misma rama.
