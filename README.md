@@ -1,5 +1,8 @@
 # practicaIS2
+Hola!!! modificando en la rama "sergiovaldivia"...
+Segundo commit en la esta rama.
 modificando
+
 primer commit 
 
 
@@ -14,4 +17,12 @@ primer commit
 
 
 
-Ultimo cambio de la tarde
+
+
+ximena modifico aqui
+
+
+
+ultimo cambio de la tarde
+
+
